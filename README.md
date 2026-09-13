@@ -4,7 +4,7 @@ Comprender el concepto de Pila y su estructura lógica, siendo capaz de aplicarl
 ## Instrucciones de Uso ##
 
 <img width="247" height="147" alt="image" src="https://github.com/user-attachments/assets/532cd553-7d26-44bc-a556-c44a1e95f045" />
-#Menú multi opciones, en el cual puedo registrar la piza junto con sus 3 ingredientes, Deshacer, Rehacer, Mostrar en Menu y Salir#
+Menú multi opciones, en el cual puedo registrar la piza junto con sus 3 ingredientes, Deshacer, Rehacer, Mostrar en Menu y Salir
 
 
 <img width="498" height="289" alt="image" src="https://github.com/user-attachments/assets/37d0dabe-fd9c-46b7-89cf-7a84e379607b" />
