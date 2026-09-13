@@ -49,9 +49,8 @@ Al iniciar la aplicación, se despliega un menú interactivo en consola con cont
 
 
 
-<p align="left">
-  <img src="https://github.com" width="320" alt="Menú Principal Pizza-Track" />
-</p>
+**Menú Principal Pizza-Track.**
+
 
 * **Opciones disponibles:** Permite interactuar secuencialmente a través de números enteros (`1`, `2`, `3`, `4`, `0`).
 
@@ -60,9 +59,9 @@ Al iniciar la aplicación, se despliega un menú interactivo en consola con cont
 ### 📝 Ciclo Completo: Registro de Pedidos
 El sistema solicita un nombre único para la pizza y obliga al usuario a ingresar un arreglo de tamaño fijo con exactamente **3 ingredientes**.
 
-<p align="left">
-  <img src="https://github.com" width="550" alt="Registro de pedidos en terminal" />
-</p>
+
+**Registro de pedidos en terminal.**
+
 
 * **Flujo Operacional del Sistema:** 
   * `Opción 1`: Registra la pizza e invoca el método `push()` en la Pila Principal (vaciando automáticamente la Pila Secundaria).
