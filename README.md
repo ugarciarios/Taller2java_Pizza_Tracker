@@ -70,7 +70,7 @@ Al iniciar la aplicación, se despliega un menú interactivo en consola con cont
 
 
 <p align="left">
-  <img src="https://github.com" width="320" alt="Menú Principal Pizza-Track" />
+  <<img width="247" height="147" alt="image" src="https://github.com/user-attachments/assets/532cd553-7d26-44bc-a556-c44a1e95f045 "Menú Principal Pizza-Track" />
 </p>
 
 * **Opciones disponibles:** Permite interactuar secuencialmente a través de números enteros (`1`, `2`, `3`, `4`, `0`).
