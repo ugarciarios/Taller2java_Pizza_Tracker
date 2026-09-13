@@ -38,7 +38,6 @@ Desarrollar una aplicación de consola que gestione el flujo de pedidos de una p
 Al iniciar la aplicación, se despliega un menú interactivo en consola con control de excepciones numéricas.
 
 <p align="left">
-<img width="247" height="147" alt="image" src="https://github.com/user-attachments/assets/532cd553-7d26-44bc-a556-c44a1e95f045" />
 <img width="498" height="289" alt="image" src="https://github.com/user-attachments/assets/37d0dabe-fd9c-46b7-89cf-7a84e379607b" />
 <img width="572" height="159" alt="image" src="https://github.com/user-attachments/assets/bd7c9fb7-b348-4dc5-b22b-a0d85a69587b" />
 <img width="436" height="163" alt="image" src="https://github.com/user-attachments/assets/51a4461e-f9f4-4759-8a06-bd41ba136711" />
