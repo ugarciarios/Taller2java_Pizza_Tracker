@@ -73,7 +73,7 @@ El sistema solicita un nombre único para la pizza y obliga al usuario a ingresa
 
 Acá puedes encontrar el enlace al video con la sustentación técnica del proyecto (Duración máxima: 3 minutos):
 
-▶️ **[Haz clic aquí para ver el Video de Sustentación](PON_AQUÍ_EL_ENLACE_DE_TU_VIDEO)**
+▶️ **[Haz clic aquí para ver el Video de Sustentación](https://drive.google.com/file/d/1EZ8a6RliQ17rexJEJXMhwk8vsYQ2k1aV/view?usp=sharing)**
 
 *En el video se incluye la presentación formal, la explicación detallada de la lógica de punteros para los métodos `push()` / `pop()`, y la demostración en vivo del ciclo completo de datos.*
 
